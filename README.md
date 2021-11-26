@@ -1,2 +1,3 @@
-# instructor_notes
+# Instructor notes
+
 Math, Statistics and DSP
