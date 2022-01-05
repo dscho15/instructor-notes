@@ -1,0 +1,5 @@
+# Shit we don't know
+
+Lecture 8
+- Correlations vector in PCA
+- Confidence Intervals in PCA
